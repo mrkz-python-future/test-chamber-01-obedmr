@@ -16,6 +16,7 @@ $ git config --global user.email johndoe@example.com
 
 ```
 
+![in case of fire, commit!](https://i.imgur.com/IiAdxbB.png)
 
 ## What's a commit, anyway?
 Un commit es un conjunto de cambios que se aplican a un repositorio. Estos, generalmente están separados de manera lógica, buscando mantener una versión funcional del proyecto.
@@ -38,10 +39,12 @@ modifica `hello-world.py` y hazlo mostrar tu nombre y código de alumno.
 
 [![asciicast](https://asciinema.org/a/nqxtaiKXcnFxCWDKvAIE6zfeN.png)](https://asciinema.org/a/nqxtaiKXcnFxCWDKvAIE6zfeN)
 
+## Level up
+Una vez que hayas terminado aquí, ¡puedes proceder al [siguiente nivel](https://classroom.github.com/g/H97__ymN)!
+
 ## It's dangerous to go alone, take this!
 Git es una herramienta colaborativa muy valiosa, poderosa y altamente utilizada
 en la industria para el desarrollo de software.
 
 Para leer más sobre git, podemos leer el libro en línea (en español) [Pro git](https://git-scm.com/book/es/v2).
 
-![in case of fire, commit!](https://i.imgur.com/IiAdxbB.png)
